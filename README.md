@@ -1,5 +1,5 @@
 # dita-classic-pdf-landscape-sample
-PDF plugin which allows you to define landscape pages for a certain chapter. Based on the DITA For Print examples.
+PDF plugin which allows you to define landscape orientation for a certain chapter. Based on the DITA For Print examples.
 
 For example if your DITA Bookmap has a reference to a chapter:
 
