@@ -8,5 +8,5 @@ For example if your DITA Bookmap has a reference to a chapter:
             
 and inside the "installing.dita" you have an 'outputclass='landscape'' attribute set on the root element, the output PDF will show this topic with landscape orientation.
 
-Stefan Eike, owner of the Doctales organization added an upgrade to the plugin in order to also support multi-column layout for a chapter:
+Stefan Eike, owner of the Doctales organization forked and added an upgrade to the plugin in order to also support multi-column layout for a chapter:
 https://github.com/doctales/org.doctales.custom-pdf
