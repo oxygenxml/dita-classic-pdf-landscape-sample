@@ -10,3 +10,9 @@ and inside the "installing.dita" you have an 'outputclass='landscape'' attribute
 
 Stefan Eike, owner of the Doctales organization forked and added an upgrade to the plugin in order to also support multi-column layout for a chapter:
 https://github.com/doctales/org.doctales.custom-pdf
+
+Copyright and License
+---------------------
+Copyright 2018 Syncro Soft SRL.
+
+This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/dita-classic-pdf-landscape-sample/blob/master/LICENSE)
