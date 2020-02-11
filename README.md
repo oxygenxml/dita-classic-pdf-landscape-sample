@@ -8,6 +8,8 @@ For example if your DITA Bookmap has a reference to a chapter:
             
 and inside the "installing.dita" you have an 'outputclass='landscape'' attribute set on the root element, the output PDF will show this topic with landscape orientation.
 
+Steps to install a DITA Open Toolkit plugin: https://www.oxygenxml.com/doc/ug-editor/topics/dita-ot-install-plugin.html
+
 Stefan Eike, owner of the Doctales organization forked and added an upgrade to the plugin in order to also support multi-column layout for a chapter:
 https://github.com/doctales/org.doctales.custom-pdf
 
